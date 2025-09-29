@@ -12,7 +12,7 @@ The core game logic (grid, bombs, explosions, collisions, score system) is imple
 
 
 
-A simple front-end interface was built with Flask, allowing users to interact with the game through a web browser.
+A simple front-end interface was built with pygame, allowing agent to interact with the game.
 
 
 
